@@ -25,10 +25,8 @@
   </span>  
 </div>
 
-</br>
-</br>
-</br>
+
 <p> &nbsp;</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarrieLea&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarrieLea&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy"> -->
 
 
