@@ -13,8 +13,8 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-  - 🔭 I live in Beijing and work as a [Software Engineer 👨‍💻](). 
-  - 😎 乐于分享，喜欢计算机
+  - 🔭 I work as a [Software Engineer 👨‍💻](). 
+  - 😎 乐于分享，喜欢计算机.
 
 <div>
   <span align="left">
