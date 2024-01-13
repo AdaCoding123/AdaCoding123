@@ -15,6 +15,7 @@
 
   - 🔭 I work as a [Software Engineer 👨‍💻](). 
   - 😎 乐于分享，喜欢计算机.
+  - ⚡ 帮助有需要的小伙伴！！  
 
 <div>
   <span align="left">
