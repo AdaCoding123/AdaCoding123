@@ -11,11 +11,11 @@
 [![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCarrieLea)](https://github.com/CarrieLea).
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 📑 &nbsp;About Me </h3>
 
-  - 🔭 I work as a [Software Engineer 👨‍💻](). 
-  - 😎 乐于分享，喜欢计算机.
-  - ⚡ 帮助有需要的小伙伴！！  
+  - 🔨 I work as a [Software Engineer 👨‍💻](). 
+  - 📝 乐于分享，喜欢计算机. 
+  - ⚡ 帮助有需要的小伙伴！！ 🍭
 
 <div>
   <span align="left">
