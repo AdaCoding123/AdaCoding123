@@ -19,15 +19,15 @@
 
 <div>
   <span align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=CarrieLea&show_icons=true&theme=radical">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=AdaCoding123&show_icons=true&theme=radical">
   </span>  
   <span align="right">
-    <img align='right' width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarrieLea&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
+    <img align='right' width='48%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdaCoding123&hide=html,java,jupyter%20notebook,css&layout=compact&card_width=495&title_color=eb1f6a&icon_color=e28905&text_color=999999&bg_color=0,27282200,0000000F&hide_border=true">
   </span>  
 </div>
 
 
 <p> &nbsp;</p>
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=CarrieLea&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy"> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdaCoding123&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy"> -->
 
 
