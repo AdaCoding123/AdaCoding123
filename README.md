@@ -14,8 +14,10 @@
 <h3> 📑 &nbsp;About Me </h3>
 
   - 🔨 I work as a [Software Engineer 👨‍💻](). 
-  - 📝 乐于分享，喜欢计算机. 
-  - ⚡ 帮助有需要的小伙伴！！ 🍭
+  - 📝 乐于分享，喜欢计算机
+  - 📌CSDN：[https://blog.csdn.net/weixin_41171614](https://blog.csdn.net/weixin_41171614)
+  - 📌公众号：AdaCoding
+  - 📝 分享科研与软件开发干货！
 
 <div>
   <span align="left">
@@ -29,5 +31,6 @@
 
 <p> &nbsp;</p>
 <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdaCoding123&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy"> -->
+
 
 
