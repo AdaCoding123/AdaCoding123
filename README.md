@@ -15,7 +15,7 @@
 
 <h3> 📑 &nbsp;About Me </h3>
 
-  - 🔨 I work as a [Software Engineer 👨‍💻](). 
+  - 🔨 I work as a [University Lecturer 👨‍💻](). 
   - 📝 乐于分享，喜欢计算机
   - 📌CSDN：[https://blog.csdn.net/weixin_41171614](https://blog.csdn.net/weixin_41171614)
   - 📌公众号：AdaCoding
